@@ -1,0 +1,70 @@
+ros-melodic-ros-ethercat-eml (0.3.2-4stretch) stretch; urgency=high
+
+  * Cosmetic fix
+  * Remove License pdf to solve double license issue. Add disclaimer.
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Mon, 06 May 2019 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.3.1-4stretch) stretch; urgency=high
+
+  * Moved to new repo
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Wed, 20 Feb 2019 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.2.0-4stretch) stretch; urgency=high
+
+  * Delete unnecessary class EtherCAT_SlaveDb that was causing sigsegv
+  * Make the start address non-static (each ethercat port will have its own separate logical address space)
+  * bug fixes in initialization
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Tue, 07 Apr 2015 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.1.8-4stretch) stretch; urgency=high
+
+
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Fri, 18 Jul 2014 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.1.7-4stretch) stretch; urgency=high
+
+
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Fri, 23 May 2014 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.1.6-4stretch) stretch; urgency=high
+
+
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Thu, 15 May 2014 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.1.5-4stretch) stretch; urgency=high
+
+
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Wed, 14 May 2014 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.1.4-4stretch) stretch; urgency=high
+
+
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Wed, 14 May 2014 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.1.3-4stretch) stretch; urgency=high
+
+
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Tue, 13 May 2014 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.1.2-4stretch) stretch; urgency=high
+
+
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Tue, 13 May 2014 00:00:00 -0000
+
+ros-melodic-ros-ethercat-eml (0.1.1-4stretch) stretch; urgency=high
+
+  * first hydro release
+
+ -- Shadow Robot's software team <software@shadowrobot.com>  Mon, 12 May 2014 00:00:00 -0000
+
+
