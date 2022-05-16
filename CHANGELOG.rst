@@ -1,8 +1,14 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_ethercat_eml
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0.4.0 (2022-05-16)
+------------------
+* Migration to noetic
+* updating cmake
+* Update README.md
+
 0.3.2 (2019-05-06)
------------
+------------------
 * Cosmetic fix
 * Remove License pdf to solve double license issue. Add disclaimer.
 
