@@ -1,3 +1,26 @@
+## ros_ethercat_eml (noetic) - 0.4.0-1
+
+The packages in the `ros_ethercat_eml` repository were released into the `noetic` distro by running `/usr/bin/bloom-release ros_ethercat_eml --rosdistro noetic` on `Mon, 16 May 2022 15:20:59 -0000`
+
+The `ros_ethercat_eml` package was released.
+
+Version of package(s) in repository `ros_ethercat_eml`:
+
+- upstream repository: https://github.com/shadow-robot/ros_ethercat_eml.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ros_ethercat_eml (melodic) - 0.3.2-5
 
 The packages in the `ros_ethercat_eml` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic ros_ethercat_eml --edit` on `Wed, 06 May 2020 10:07:29 -0000`
